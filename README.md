@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitmadnani&label=Profile%20views&color=0e75b6&style=flat" alt="mohitmadnani" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **AI Engineering**
 
 - 👨‍💻 All of my projects are available at [https://www.mohitmadnani.co.uk/](https://www.mohitmadnani.co.uk/)
 
